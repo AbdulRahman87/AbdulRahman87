@@ -30,7 +30,7 @@ Here are a few projects I've been working on:
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](link-to-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abdul-rahman-2600a5220/)
 - Twitter: [Your Twitter Profile](link-to-profile)
 - Email: [Your Email Address]
 
