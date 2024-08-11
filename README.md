@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to build 
 
 Here are a few projects I've been working on:
 
-- [Project 1](https://github.com/AbdulRahman87/Chat-Application) - Brief description
+- [Project 1](https://github.com/AbdulRahman87/Chat-Application) - Chat Application built with Django, designed to offer seamless and responsive messaging experiences.
 - [Project 2](link-to-project) - Brief description
 - [Project 3](link-to-project) - Brief description
 
