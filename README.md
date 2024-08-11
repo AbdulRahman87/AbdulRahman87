@@ -32,6 +32,6 @@ Here are a few projects I've been working on:
 
 - LinkedIn: [Abdul Rahman](https://www.linkedin.com/in/abdul-rahman-2600a5220/)
 - Twitter: [Abdul Rahman](https://x.com/Kaifans41274336)
-- Email: [abdulrahmaan8980@gmail.com]
+- Email: abdulrahmaan8980@gmail.com
 
 Thank you for visiting my profile!
