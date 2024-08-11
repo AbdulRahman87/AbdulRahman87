@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to build 
 - 🌱 I’m currently learning advanced features of Django and React.
 - 👯 I’m looking to collaborate on exciting web development projects.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Django, and Python.
-- 📫 How to reach me: [Your Email Address]
+- 📫 How to reach me: abdulrahmaan8980@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
+- ⚡ Fun fact:  I wrote my first line of code in Python and immediately fell in love with Django!
 
 ## 🛠️ My Skills
 
@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to build 
 Here are a few projects I've been working on:
 
 - [Project 1](https://github.com/AbdulRahman87/Chat-Application) - Chat Application built with Django, designed to offer seamless and responsive messaging experiences.
-- [Project 2](link-to-project) - Brief description
-- [Project 3](link-to-project) - Brief description
+- [Project 2](https://github.com/AbdulRahman87/CRUD_API_Project) - One of my key projects is a CRUD API developed using Django Rest Framework (DRF), designed for seamless data management and integration.
+- [Project 3](https://github.com/AbdulRahman87/Forum-App) - One of my featured projects is an Online Forum built with Django, designed to foster community engagement and discussions.
 
 ## 📫 Get in Touch
 
