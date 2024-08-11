@@ -19,13 +19,6 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves to build 
 - **Libraries:** jQuery
 - **Other Skills:** Web Development, RESTful APIs
 
-## 🏆 GitHub Stats
-
-![Abdul Rahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📚 My Projects
 
